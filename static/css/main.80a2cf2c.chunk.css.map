@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.module.scss","App.scss"],"names":[],"mappings":"AAAA,oBACE,gBAAiB,CACjB,aAAc,CAFhB,8CAKI,YAAa,CCLjB,KACE,qBAAsB","file":"main.80a2cf2c.chunk.css","sourcesContent":[".wrap {\n  max-width: 1140px;\n  margin: 0 auto;\n\n  td, th {\n    padding: 10px;\n  }\n}","body {\n  background-color: #fff;\n}"]}

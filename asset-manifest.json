@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chart-currensy/static/css/main.80a2cf2c.chunk.css",
+    "main.js": "/chart-currensy/static/js/main.5b5159a8.chunk.js",
+    "main.js.map": "/chart-currensy/static/js/main.5b5159a8.chunk.js.map",
+    "runtime-main.js": "/chart-currensy/static/js/runtime-main.b73500de.js",
+    "runtime-main.js.map": "/chart-currensy/static/js/runtime-main.b73500de.js.map",
+    "static/js/2.e5f61a6e.chunk.js": "/chart-currensy/static/js/2.e5f61a6e.chunk.js",
+    "static/js/2.e5f61a6e.chunk.js.map": "/chart-currensy/static/js/2.e5f61a6e.chunk.js.map",
+    "index.html": "/chart-currensy/index.html",
+    "precache-manifest.459af60ad680b7a2ea904693d7991a36.js": "/chart-currensy/precache-manifest.459af60ad680b7a2ea904693d7991a36.js",
+    "service-worker.js": "/chart-currensy/service-worker.js",
+    "static/css/main.80a2cf2c.chunk.css.map": "/chart-currensy/static/css/main.80a2cf2c.chunk.css.map",
+    "static/js/2.e5f61a6e.chunk.js.LICENSE.txt": "/chart-currensy/static/js/2.e5f61a6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b73500de.js",
+    "static/js/2.e5f61a6e.chunk.js",
+    "static/css/main.80a2cf2c.chunk.css",
+    "static/js/main.5b5159a8.chunk.js"
+  ]
+}
